@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: Mentor at CodersX (position: Mentor) 👨‍💻
+- 🔭 I’m currently working on:  CodersX (position: Mentor) 👨‍💻
 - 🏬 Student :  Computer Science at Thang Long University 🇻🇳
 - 🌱 I’m currently researching: Machine Learning (Deep Learning) 
 - 💬 Ask me about: Machine Learning , Deep Learning , Data structure and Algorithms ⁉️🙋
