@@ -1,8 +1,8 @@
 ### Hi Thuoq there 👋
 
-- 🏬 Student :  Computer Science at Thang Long University 🇻🇳
-- 🌱 I’m currently researching: Machine Learning (Deep Learning) 
-- 💬 Ask me about: Machine Learning , Deep Learning , Data structure and Algorithms ⁉️🙋
+- 🏬 Software Engineering:  FPT Software  🇻🇳
+- 🌱 I’m currently researching: Back-end (NestJs, NodeJs) + FrontEnd(Angular, React) + Systems Desgin
+- 💬 Ask me about: Machine Learning , Deep Learning , Data structure and Algorithms + Javascript ⁉️🙋
 - 📫 How to reach me: [Thuong Le](https://www.facebook.com/hthuongh1939203)
 - 📬 Email for work: thuonghamno3xz@gmail.com 
 - 😄 Pronouns: Cownutt
