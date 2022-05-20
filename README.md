@@ -1,6 +1,5 @@
 ### Hi Thuoq there 👋
 
-- 🏬 Software Engineering:  FPT Software  🇻🇳
 - 🌱 I’m currently researching: Back-end (NestJs, NodeJs) + FrontEnd(Angular, React) + Systems Desgin
 - 💬 Ask me about: Machine Learning , Deep Learning , Data structure and Algorithms + Javascript ⁉️🙋
 - 📫 How to reach me: [Thuong Le](https://www.facebook.com/hthuongh1939203)
